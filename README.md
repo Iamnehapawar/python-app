@@ -1,4 +1,4 @@
-# #  Python Application - Fully Automated CI/CD Pipeline with Jenkins & AWS EC2
+#   Python Application - Fully Automated CI/CD Pipeline with Jenkins & AWS EC2
 
 This project demonstrates a **fully automated CI/CD pipeline** for a Python application using Jenkins, GitHub, and AWS EC2. The pipeline automatically deploys the application to a deployment server.
 
