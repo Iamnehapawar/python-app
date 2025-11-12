@@ -73,7 +73,7 @@ python3-pip npm git
 
 sudo npm install -g pm2
 
-## 4.Create a directory for the application:
+### 4.Create a directory for the application:
 
 
 mkdir -p /home/ubuntu/pythonapp
