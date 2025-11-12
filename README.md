@@ -122,3 +122,15 @@ Monitoring: PM2 allows monitoring the running state of the application.
 ![](./image/console%20output.png)
 
 ![](./image/output.png)
+
+## Conclusion:
+Automatic Deployment: Git push → Jenkins deploys app automatically.
+
+Monitoring: PM2 monitors and restarts the app if needed.
+
+Extensible: Add tests, Docker, or AWS services easily.
+
+References: GitHub, Jenkins docs, PM2 docs, AWS docs.
+
+- Author: Neha Pawar
+- GitHub: https://github.com/Iamnehapawar
